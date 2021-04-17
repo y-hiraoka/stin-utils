@@ -1,0 +1,9 @@
+:root {
+  --c-primary: rgb(40, 120, 211);
+  --c-secondary: yellow;
+  --c-text-primary: #323332;
+  --c-text-secondary: #676767;
+  --c-bg-primary: #fefefe;
+
+  --app-max-width: 900px;
+}
