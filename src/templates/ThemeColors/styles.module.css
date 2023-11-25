@@ -1,0 +1,29 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.title {
+  font-size: 32px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.colorInput {
+  margin-bottom: 32px;
+}
+
+.colors {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  column-gap: 8px;
+}
+
+.colorExample {
+  width: 100px;
+  height: 40px;
+}

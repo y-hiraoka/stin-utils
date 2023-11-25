@@ -14,6 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>stin utilities</h1>
         <div style={{ height: "80px" }} />
         <Link href="/clipboard-image-generator">Clipboard Image Generator</Link>
+        <Link href="/theme-colors">Theme Colors</Link>
       </main>
     </div>
   );
